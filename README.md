@@ -13,8 +13,7 @@ Hey there! 👋 I'm Shravani, a passionate individual with a solid background in
 
 🛠️ **Projects:**
 - Check out my latest projects, where I apply statistical methods to real-world datasets.
-  - [Project 1: Brief description and link]
-  - [Project 2: Brief description and link]
+  - [click Here](https://github.com/ShravaniRajanelli/DataScience_Projects)
 
 🌱 **Currently Exploring:**
 - 🧠 Machine Learning algorithms and their applications.
